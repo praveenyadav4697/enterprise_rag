@@ -1,0 +1,6 @@
+Enterprise RAG Platform
+- Upload documents
+- Ask questions over uploaded content
+- Store users and chat history in PostgreSQL
+- Use JWT auth for secure access
+- Designed as a GitHub-ready portfolio project
